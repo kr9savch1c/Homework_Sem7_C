@@ -1,0 +1,15 @@
+C:\Users\gadik\OneDrive\Рабочий стол\QA\3.Знакомство с языками программирования\Семинары\7.Двумерные массивы\Homework\Exercise 52\bin\Debug\net7.0\Exercise 52.exe
+C:\Users\gadik\OneDrive\Рабочий стол\QA\3.Знакомство с языками программирования\Семинары\7.Двумерные массивы\Homework\Exercise 52\bin\Debug\net7.0\Exercise 52.deps.json
+C:\Users\gadik\OneDrive\Рабочий стол\QA\3.Знакомство с языками программирования\Семинары\7.Двумерные массивы\Homework\Exercise 52\bin\Debug\net7.0\Exercise 52.runtimeconfig.json
+C:\Users\gadik\OneDrive\Рабочий стол\QA\3.Знакомство с языками программирования\Семинары\7.Двумерные массивы\Homework\Exercise 52\bin\Debug\net7.0\Exercise 52.dll
+C:\Users\gadik\OneDrive\Рабочий стол\QA\3.Знакомство с языками программирования\Семинары\7.Двумерные массивы\Homework\Exercise 52\bin\Debug\net7.0\Exercise 52.pdb
+C:\Users\gadik\OneDrive\Рабочий стол\QA\3.Знакомство с языками программирования\Семинары\7.Двумерные массивы\Homework\Exercise 52\obj\Debug\net7.0\Exercise 52.csproj.AssemblyReference.cache
+C:\Users\gadik\OneDrive\Рабочий стол\QA\3.Знакомство с языками программирования\Семинары\7.Двумерные массивы\Homework\Exercise 52\obj\Debug\net7.0\Exercise 52.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gadik\OneDrive\Рабочий стол\QA\3.Знакомство с языками программирования\Семинары\7.Двумерные массивы\Homework\Exercise 52\obj\Debug\net7.0\Exercise 52.AssemblyInfoInputs.cache
+C:\Users\gadik\OneDrive\Рабочий стол\QA\3.Знакомство с языками программирования\Семинары\7.Двумерные массивы\Homework\Exercise 52\obj\Debug\net7.0\Exercise 52.AssemblyInfo.cs
+C:\Users\gadik\OneDrive\Рабочий стол\QA\3.Знакомство с языками программирования\Семинары\7.Двумерные массивы\Homework\Exercise 52\obj\Debug\net7.0\Exercise 52.csproj.CoreCompileInputs.cache
+C:\Users\gadik\OneDrive\Рабочий стол\QA\3.Знакомство с языками программирования\Семинары\7.Двумерные массивы\Homework\Exercise 52\obj\Debug\net7.0\Exercise 52.dll
+C:\Users\gadik\OneDrive\Рабочий стол\QA\3.Знакомство с языками программирования\Семинары\7.Двумерные массивы\Homework\Exercise 52\obj\Debug\net7.0\refint\Exercise 52.dll
+C:\Users\gadik\OneDrive\Рабочий стол\QA\3.Знакомство с языками программирования\Семинары\7.Двумерные массивы\Homework\Exercise 52\obj\Debug\net7.0\Exercise 52.pdb
+C:\Users\gadik\OneDrive\Рабочий стол\QA\3.Знакомство с языками программирования\Семинары\7.Двумерные массивы\Homework\Exercise 52\obj\Debug\net7.0\Exercise 52.genruntimeconfig.cache
+C:\Users\gadik\OneDrive\Рабочий стол\QA\3.Знакомство с языками программирования\Семинары\7.Двумерные массивы\Homework\Exercise 52\obj\Debug\net7.0\ref\Exercise 52.dll
